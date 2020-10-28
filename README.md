@@ -74,6 +74,3 @@ Optional 2 classes or workshops on
 
 * ## Machine Learning on timeseries data.
 * ## Deep dive into [minGPT](https://github.com/karpathy/minGPT)
-
-
-
